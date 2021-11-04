@@ -56,3 +56,31 @@ h2 {
 h4 {
     color: lightpink;
 }
+
+button {
+    background-color: pink;
+}
+.input {
+}
+
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#blue {
+    background-color: lightblue;
+}
+
+#gray {
+    background-color: lightgray;
+}
+
+#green {
+    background-color: lightgreen;
+}
