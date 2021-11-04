@@ -20,6 +20,11 @@ buttonEl.addEventListener('click', () => {
     inputEl.value = '';
 })
 
+blueButton.addEventListener('click', () => {
+    boxEl.style.backgroundColor = 'blue';
+
+})
+
 
 /* Some other div
 Why? This is the box we'll inject words into.
